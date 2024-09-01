@@ -43,7 +43,7 @@ $('#nav-toggle').click(function(){
 
   document.getElementById('downloadButton').addEventListener('click', function() {
     // URL of the file you want to download
-    const fileUrl = 'assets/imgs/zoho.png.png'; // Replace with the actual file URL
+    const fileUrl = 'assets/imgs/kavithai.jpg'; // Replace with the actual file URL
 
     // Create an anchor element
     const link = document.createElement('a');
@@ -65,7 +65,7 @@ $('#nav-toggle').click(function(){
 
   document.getElementById('anniversaryGift').addEventListener('click', function() {
     // URL of the file you want to download
-    const fileUrl = 'assets/imgs/zoho.png.png'; // Replace with the actual file URL
+    const fileUrl = 'assets/imgs/memor.jpg'; // Replace with the actual file URL
 
     // Create an anchor element
     const link = document.createElement('a');
